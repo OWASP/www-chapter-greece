@@ -1,6 +1,12 @@
-<!--### Chapter Information
-* Chapter Region
-
+ 
 ### Social Links
-* [Meetup](#)
-* [Social Link](#)-->
+
+* [Facebook](https://www.facebook.com/OwaspGreece/)
+* [Hackademic, University of Thessaly](http://hackademic.teilar.gr/)
+* [Twitter, Student Chapter of Greece](https://twitter.com/owaspgreeksc)
+
+### Code - Repository
+
+* [Github](https://github.com/OWASP/www-chapter-greece)
+
+
