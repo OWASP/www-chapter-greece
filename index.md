@@ -11,6 +11,9 @@ auto-migrated: 1
 
 ---
 
+### OWASP Greece
+
+Καλώς ήλθατε στην επίσημη ιστοσελίδα του Owasp Greek Chapter.
 
 <!-- Standard Chapter Page Template
 This is an example of a Project or Chapter page.
@@ -52,3 +55,4 @@ This separate file is where you should place links to your Google Group and Meet
 Another separate file that should simply include each leaders name with mailto link as a list. It will also be automatically rendered in the column sidebar.
 
 -->
+
