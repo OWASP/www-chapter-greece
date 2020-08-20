@@ -11,9 +11,18 @@ auto-migrated: 1
 
 ---
 
+
 ### OWASP Greece
 
 Καλώς ήλθατε στην επίσημη ιστοσελίδα του Owasp Greek Chapter.
+
+
+
+
+## Ενημερώσεις
+
+Μετά τις πρόσφατες εξελίξεις σχετικά με το COVID-19, το * OWASP Foundation * έλαβε τη δύσκολη απόφαση να αναβάλει το [Global AppSec Dublin Conference](https://dublin.globalappsec.org/) στις 15-19 Φεβρουαρίου 2021.
+
 
 <!-- Standard Chapter Page Template
 This is an example of a Project or Chapter page.
