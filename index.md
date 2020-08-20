@@ -24,6 +24,19 @@ auto-migrated: 1
 Μετά τις πρόσφατες εξελίξεις σχετικά με το COVID-19, το * OWASP Foundation * έλαβε τη δύσκολη απόφαση να αναβάλει το [Global AppSec Dublin Conference](https://dublin.globalappsec.org/) στις 15-19 Φεβρουαρίου 2021.
 
 
+
+## Νέα
+
+* "Τρόπος χρήσης των προστατευτικών κιγκλιδωμάτων πρόσβασης για την προστασία του Cloud σας και την ενίσχυση των DevOps" *
+Τετάρτη, 19 Αυγούστου 2020
+6:30 μ.μ. έως 8:30 μ.μ. EDT
+Φιλοξενείται από το OWASP Τορόντο
+**[Τρόπος χρήσης των προστατευτικών κιγκλιδωμάτων πρόσβασης για την προστασία του Cloud & Ενεργοποίηση DevOps](https://lnkd.in/erFm8W6)**
+
+
+Αυτή η συνεδρία του Αυγούστου θα είναι για αρχάριους και θα καλύψει κοινά σφάλματα που εμφανίζονται σε *#WebAPIs*, κάποια χέρια στην εκπαίδευση με τα διαδικτυακά εργαστήρια και κάποιες τεχνικές πρόληψης για τις πιο κοινές επιθέσεις και ορισμένες μελέτες περιπτώσεων. [Κάνε εγγραφή τώρα](https://lnkd.in/dX-vM96).
+
+
 <!-- Standard Chapter Page Template
 This is an example of a Project or Chapter page.
 Please change these items to indicate the actual information you wish to present. In addition to this information, the 'front-matter' above the text should be modified to reflect your actual information.  An explanation of each of the front-matter items is below:
