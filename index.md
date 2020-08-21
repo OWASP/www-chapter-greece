@@ -15,53 +15,65 @@ auto-migrated: 1
 ## OWASP Greece
 
 Welcome to the OWASP Greece Chapter webpage.
-
-
-
-
+<br />
+<br />
 
 
 ### Updates
-
-
+<br />
+<br />
+###### GlobalAppSec Conference at Dublin
+![GlobalAppSec-Dublin](https://dublin.globalappsec.org/assets/images/dublin_rmonty119_1200.jpg)
 Following recent developments relating to COVID-19, the *OWASP Foundation* has made the difficult decision to postpone the [Global AppSec Dublin Conference](https://dublin.globalappsec.org/) to February 15-19, 2021.
-
+<br />
+<br />
 
 
 ### News
+<br />
+<br />
 
 ###### Global AppSec 2020 - Virtual
+<br />
 
 ![GlobalAppSec](https://res.cloudinary.com/bizzaboprod/image/upload/q_auto:best,c_crop,g_custom/v1596739523/ocd5mkitofyuvgyjv1hl.jpg)
+
 We invite you to engage with our community, explore education, uncover solutions, network with like-minded AppSec and DevSecOps pros, and geek-out over our Hands-on Special Events - all from your desktop.
 [Join us](https://virtual.globalappsec.org/) for both free and enhanced content. Explore our featured keynote speakers and virtual exhibit hall for free. Looking for even more? Enhance your experience and access over 60 education sessions, community networking, special events and more, and register for the full conference experience.
-
+<br />
+<br />
 
 
 ###### How to Use Access Guardrails to Protect Your Cloud & Empower DevOps
+<br />
+
 Wed., August 19, 2020
 6:30 PM to 8:30 PM EDT
 Hosted by OWASP Toronto
 **[How to Use Access Guardrails to Protect Your Cloud & Empower DevOps](https://lnkd.in/erFm8W6)**
-
+<br />
+<br />
 
 ###### AppSec Days - Summer of Security- August 25-26, 2020
+<br />
 ![OWASP](https://www.guardsquare.com/files/media/OWASP_mobile_top_10.png)
 This August session will be for beginners and will cover common occurring bugs in *#WebAPIs* ,  some hands on training with the online labs, and some prevention techniques for the most common attacks and some case studies. [Register now](https://lnkd.in/dX-vM96).
-
+<br />
+<br />
 
 
 ### Past Events
-
+<br />
+<br />
 
 ###### Cyber-Security-Recruitment-Day-Deloitte
-
+<br />
 On October 15, 2019, the Day of Security Recruitment in cyberspace takes place at the premises of Deloitte Thessaloniki. During this day be prepared to:
 
-• Gain international knowledge about cyber security based on the latest trends from cyber security leaders
-• Take part in Cybersecurity business affairs
-• Find out about the possible opportunities you can experience with Deloitte Thessaloniki
-• Meet the Deloitte Professionals in person and you have the opportunity to be hired directly!
+* Gain international knowledge about cyber security based on the latest trends from cyber security leaders
+* Take part in Cybersecurity business affairs
+* Find out about the possible opportunities you can experience with Deloitte Thessaloniki
+* Meet the Deloitte Professionals in person and you have the opportunity to be hired directly!
 
 For students wishing to participate, see the following [link](https://lnkd.in/gPBQxxw).
 
