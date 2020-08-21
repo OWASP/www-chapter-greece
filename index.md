@@ -14,45 +14,56 @@ auto-migrated: 1
 
 ## OWASP Greece
 
-Καλώς ήλθατε στην επίσημη ιστοσελίδα του Owasp Greek Chapter.
+Welcome to the OWASP Greece Chapter webpage.
 
 
 
 
 
-## Ενημερώσεις
 
-Μετά τις πρόσφατες εξελίξεις σχετικά με το COVID-19, το *OWASP Foundation* έλαβε τη δύσκολη απόφαση να αναβάλει το [Global AppSec Dublin Conference](https://dublin.globalappsec.org/) στις 15-19 Φεβρουαρίου 2021.
-
+### Updates
 
 
-## Νέα
-
-
-Αυτή η [συνεδρία](https://appsecdays.org/) του Αυγούστου θα είναι για αρχάριους και θα καλύψει κοινά σφάλματα που εμφανίζονται σε *#WebAPIs*, κάποια χέρια στην εκπαίδευση με τα διαδικτυακά εργαστήρια και κάποιες τεχνικές πρόληψης για τις πιο κοινές επιθέσεις και ορισμένες μελέτες περιπτώσεων. [Κάνετε εγγραφή τώρα](https://lnkd.in/dX-vM96).
+Following recent developments relating to COVID-19, the *OWASP Foundation* has made the difficult decision to postpone the [Global AppSec Dublin Conference](https://dublin.globalappsec.org/) to February 15-19, 2021.
 
 
 
-## Παρελθοντικά Events
+### News
+
+###### Global AppSec 2020 - Virtual
+
+![GlobalAppSec](https://res.cloudinary.com/bizzaboprod/image/upload/q_auto:best,c_crop,g_custom/v1596739523/ocd5mkitofyuvgyjv1hl.jpg)
+We invite you to engage with our community, explore education, uncover solutions, network with like-minded AppSec and DevSecOps pros, and geek-out over our Hands-on Special Events - all from your desktop.
+[Join us](https://virtual.globalappsec.org/) for both free and enhanced content. Explore our featured keynote speakers and virtual exhibit hall for free. Looking for even more? Enhance your experience and access over 60 education sessions, community networking, special events and more, and register for the full conference experience.
 
 
-*Οι τρόποι χρήσης των προστατευτικών κιγκλιδωμάτων πρόσβασης για την προστασία του Cloud σας και την ενίσχυση των DevOps*.
-Ημερομηνία: Τετάρτη, 19 Αυγούστου 2020, 6:30 μ.μ. έως 8:30 μ.μ. EDT.
-Φιλοξενείται από το OWASP Τορόντο.
 
-**[Οι τρόποι χρήσης των προστατευτικών κιγκλιδωμάτων πρόσβασης για την προστασία του Cloud & Ενεργοποίηση DevOps](https://lnkd.in/erFm8W6)**
+###### How to Use Access Guardrails to Protect Your Cloud & Empower DevOps
+Wed., August 19, 2020
+6:30 PM to 8:30 PM EDT
+Hosted by OWASP Toronto
+**[How to Use Access Guardrails to Protect Your Cloud & Empower DevOps](https://lnkd.in/erFm8W6)**
 
 
-### Cyber-Security-Recruitment-Day-Deloitte
+###### AppSec Days - Summer of Security- August 25-26, 2020
+![OWASP](https://www.guardsquare.com/files/media/OWASP_mobile_top_10.png)
+This August session will be for beginners and will cover common occurring bugs in *#WebAPIs* ,  some hands on training with the online labs, and some prevention techniques for the most common attacks and some case studies. [Register now](https://lnkd.in/dX-vM96).
 
-Στις 15 Οκτωβρίου 2019, η Ημέρα Προσλήψεων Ασφάλειας στον κυβερνοχώρο πραγματοποιείται στις εγκαταστάσεις της Deloitte Θεσσαλονίκης. Κατά τη διάρκεια αυτής της ημέρας να είστε προετοιμασμένοι για να:
 
-• Αποκτήστε διεθνείς γνώσεις σχετικά με την ασφάλεια στον κυβερνοχώρο με βάση τις τελευταίες τάσεις από τους ηγέτες της κυβερνοασφάλειας
-• Λάβετε μέρος στις επιχειρηματικές υποθέσεις Cybersecurity
-• Μάθετε για τις πιθανές ευκαιρίες που μπορείτε να ζήσετε με τη Deloitte Θεσσαλονίκη
-• Συναντηθείτε αυτοπροσώπως με τους Deloitte Professionals και έχετε την ευκαιρία να προσληφθείτε απευθείας!
 
-Για μαθητές που επιθυμούν να συμμετάσχουν, ανατρέξτε στον ακόλουθο [σύνδεσμο](https://lnkd.in/gPBQxxw).
+### Past Events
+
+
+###### Cyber-Security-Recruitment-Day-Deloitte
+
+On October 15, 2019, the Day of Security Recruitment in cyberspace takes place at the premises of Deloitte Thessaloniki. During this day be prepared to:
+
+• Gain international knowledge about cyber security based on the latest trends from cyber security leaders
+• Take part in Cybersecurity business affairs
+• Find out about the possible opportunities you can experience with Deloitte Thessaloniki
+• Meet the Deloitte Professionals in person and you have the opportunity to be hired directly!
+
+For students wishing to participate, see the following [link](https://lnkd.in/gPBQxxw).
 
 
 <!-- Standard Chapter Page Template
@@ -94,5 +105,4 @@ This separate file is where you should place links to your Google Group and Meet
 
 Another separate file that should simply include each leaders name with mailto link as a list. It will also be automatically rendered in the column sidebar.
 
--->
-
+--> 
