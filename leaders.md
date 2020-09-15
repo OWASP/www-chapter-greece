@@ -1,5 +1,6 @@
 ### Leaders
-* [Konstantinos Papapanagiotou](mailto:conpap@owasp.gr)
+* [Konstantinos Papapanagiotou](mailto:konstantinos@owasp.org)
+##Deputy Director:
 * [Vasileios Vlachos](mailto:vsvlachos@owasp.gr)
 
 ### Contribution Members
