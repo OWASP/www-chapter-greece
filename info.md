@@ -10,4 +10,9 @@
 
 * [Github](https://github.com/OWASP/www-chapter-greece)
 
+### Contribution Members
+* [Alexandros Malathounis](mailto:a.malathounis@gmail.com)
+* [Panos Kalorogiannis](mailto:panoskalorog@gmail.com)
 
+### Publicity Manager
+* [Kyriaki Chantzi](mailto:kikichantzi@gmail.com)
