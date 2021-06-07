@@ -17,7 +17,7 @@ Welcome to the OWASP Greece Chapter webpage.
 
 
 ### Updates
-- Greece Chapter will resume meetings in September 2021
+
 
 <br />
 <br />
