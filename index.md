@@ -11,7 +11,7 @@ Meetup-group: owasp-greece-meetup-group
 
 ## OWASP Greece
 
-Welcome to the OWASP Greece Chapter webpage.
+Welcome to the OWASP Greece Chapter
 
 
 ## Participation
