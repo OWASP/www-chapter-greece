@@ -12,27 +12,12 @@ Meetup-group:  owasp-greece-meetup-group
 ## OWASP Greece
 
 Welcome to the OWASP Greece Chapter webpage.
-<br />
-<br />
 
 
-### Updates
+## Upcoming Meeting:
 
-- Greece Chapter will resume meetings in September 2021
-<br />
-<br />
+ {% include chapter_events.html group=page.meetup-group %}
 
-### News
-<br />
-<br />
-
-### Past Events
-<br />
-<br />
-
-
-
-For students wishing to participate, see the following [link](https://lnkd.in/gPBQxxw).
 
 
 <!-- Standard Chapter Page Template
