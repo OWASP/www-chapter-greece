@@ -30,14 +30,7 @@ Welcome to the OWASP Greece Chapter webpage.
 <br />
 <br />
 
-###### Cyber-Security-Recruitment-Day-Deloitte
-<br />
-On October 15, 2019, the Day of Security Recruitment in cyberspace takes place at the premises of Deloitte Thessaloniki. During this day be prepared to:
 
-* Gain international knowledge about cyber security based on the latest trends from cyber security leaders
-* Take part in Cybersecurity business affairs
-* Find out about the possible opportunities you can experience with Deloitte Thessaloniki
-* Meet the Deloitte Professionals in person and you have the opportunity to be hired directly!
 
 For students wishing to participate, see the following [link](https://lnkd.in/gPBQxxw).
 
