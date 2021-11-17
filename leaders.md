@@ -1,5 +1,7 @@
 ### Leaders
 * [Konstantinos Papapanagiotou](mailto:konstantinos@owasp.org)
+* [Nick Andriopoulos](mailto:nick.andriopoulos@owasp.org)
+* [Filippos Karapetis](mailto:filippos.karapetis@owasp.org)
 
 ### Deputy Director
 * [Vasileios Vlachos](mailto:vsvlachos@owasp.gr)
@@ -11,3 +13,4 @@
 
 ### Publicity Manager
 * [Kyriaki Chantzi](mailto:kikichantzi@gmail.com)
+

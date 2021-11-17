@@ -2,4 +2,4 @@ __pycache__
 env
 .vscode
 Gemfile.lock
-_site/*
+_site/
