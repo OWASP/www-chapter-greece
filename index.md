@@ -47,7 +47,7 @@ postal-code:
 
 Επίσης θα θέλαμε να ευχαριστήσουμε θερμά το περιοδικό Linux Inside για την υποστήριξη και την προβολή καθώς και το [zero.gr](http://www.zero.gr).
 
-![Image:Linuxinside-logo.png](/assets/images/Linuxinside-logo.png) ![Image:zerologo.png](/assets/images/zerologo.png)
+![Image:Linuxinside-logo.png](/assets/images/Linuxinside-logo.png) ![Image:zerologo.png](/assets/images/Zerologo.png)
 
 ---
 
