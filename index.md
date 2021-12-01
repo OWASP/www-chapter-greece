@@ -1,7 +1,7 @@
 ---
 
 layout: col-sidebar
-title: OWASP Greece Chapter
+title: OWASP Greece 
 tags: greece
 region: Europe
 currency: eur
