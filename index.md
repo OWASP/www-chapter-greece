@@ -115,5 +115,5 @@ Chapter](https://www.facebook.com/OwaspGreece/?modal=composer).
 Με τη βοήθεια του Αναστάσιου Καζακώνη μετέφράστηκαν το "OWASP Top Ten Vulnerabilties in Web Application Security" και το OWASP AppSec FAQ στα Ελληνικά. Έτσι είναι πλέον διαθέσιμες οι ελληνικές εκδόσεις του [OWASP Top Ten](http://www.owasp.org/images/8/8b/OWASP_Top_Ten_2004_Greek.pdf) και του [OWASP AppSec FAQ](http://www.owasp.org/images/e/ed/OWASP_faq_Greek.pdf).
 
 ---
-
+## Upcoming Meeting listed on our Meetup Group ##
 {% include chapter_events.html group=page.meetup-group %}
